@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/contacts"
+        android:icon="@drawable/ic_person"
+        android:id="@+id/item_contacts"
+        />
+    <item android:title="@string/call_history"
+        android:icon="@drawable/ic_phone"
+        android:id="@+id/item_phone"/>
+    <item android:title="@string/messages"
+        android:icon="@drawable/ic_message"
+        android:id="@+id/item_messages"/>
+</menu>
